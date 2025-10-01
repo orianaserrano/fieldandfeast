@@ -282,6 +282,7 @@ footer a{
   }
 }
 
+/* >= 900px Screens */
 @media screen and (min-width: 900px){
     .container {
     max-width: 1199px;
@@ -315,7 +316,7 @@ footer a{
 
 
 }
-
+/* >= 1200px Screens */
 @media screen and (min-width: 1200px){
     .container {
      max-width: 1400px;
